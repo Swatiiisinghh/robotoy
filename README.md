@@ -1,5 +1,5 @@
 # MechanicalDesignMethodRobEng2017-18
-Construction of toy game robot modelling part in Creo and 3D printing them. Robotics Engineering 2018/19 
+Construction of toy game robot modelling part in Creo and 3D printing them. Robotics Engineering 2
 
 This project consist in building a toy robot copying from existing one
 * "Studying" some parts of the toy, and make sketch of them on paper
