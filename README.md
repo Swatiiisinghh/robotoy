@@ -20,6 +20,6 @@ This project consist in building a toy robot copying from existing one
 </p>     
 
 
-Final video [here](https://streamable.com/99i0z)
+
 
 
