@@ -22,6 +22,4 @@ This project consist in building a toy robot copying from existing one
 
 Final video [here](https://streamable.com/99i0z)
 
-## Contributors
-* [torydebra](https://github.com/torydebra/)
-* [fafux](https://github.com/fafux/)
+
