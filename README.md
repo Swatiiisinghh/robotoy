@@ -4,7 +4,7 @@ Construction of toy game robot modelling part in Creo and 3D printing them. Robo
 This project consist in building a toy robot copying from existing one
 * "Studying" some parts of the toy, and make sketch of them on paper
 <p align="center">
-    <img src="draw.jpg" width="300"/>
+  
 </p>  
 * From drawings, create 3D models with Creo Parametric
 <p align="center">
