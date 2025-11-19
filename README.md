@@ -8,7 +8,7 @@ This project consist in building a toy robot copying from existing one
 </p>  
 * From drawings, create 3D models with Creo Parametric
 <p align="center">
-    <img src="param.jpg" width="300"/>
+   
 </p>  
 * Assembly the parts and testing the working of the robot with Creo Simulate
 <p align="center">
